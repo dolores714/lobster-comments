@@ -1,0 +1,9 @@
+{
+  "name": "lobster-guestbook",
+  "version": "1.0.0",
+  "description": "大龙虾留言板后端",
+  "private": true,
+  "dependencies": {
+    "@waline/vercel": "latest"
+  }
+}
